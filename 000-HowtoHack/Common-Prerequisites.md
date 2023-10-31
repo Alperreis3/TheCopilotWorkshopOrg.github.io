@@ -1,6 +1,6 @@
-# What The Hack: Common Prerequisites
+# Common Hacking Prerequisites
 
-Thanks for participating in a What The Hack! We have compiled a list of common tools and software that will come in handy to complete these Azure based hacks!
+Thanks for participating in this hack! We have compiled a list of common tools and software that will come in handy.
 
 You might not need all of them for the hack you are participating in. However, if you work with Azure on a regular basis, these are all things you should consider having in your toolbox.
 
@@ -16,23 +16,10 @@ You might not need all of them for the hack you are participating in. However, i
   - [Visual Studio Code plugins for ARM Templates](#visual-studio-code-plugins-for-arm-templates)
 - [Azure Storage Explorer](#azure-storage-explorer)
 
-## Azure Subscription
+## Windows Subsystem for Linux
+The **Windows Subsystem for Linux (WSL)** is a feature of Windows that allows developers to run a Linux environment directly on Windows, unmodified, without the need for a separate virtual machine or dual-boot setup. WSL allows users to invoke processes in Linux from Windows and vice versa, access files across both the operating systems, share environment variables, and mix different commands together.
 
-You will need an Azure subscription to complete this hackathon. If you don't have one...
-
-[Sign Up for Azure HERE](https://azure.microsoft.com/en-us/free/)
-
-Our goal in the hackathon is limiting the cost of using Azure services.
-
-If you've never used Azure, you will get:
-
-- $200 free credits for use for up to 30 days
-- 12 months of popular free services (includes storage, Linux VMs)
-- Then there are services that are free up to a certain quota
-
-Details can be found here on [free services](https://azure.microsoft.com/en-us/free/).
-
-If you have used Azure before, we will still try to limit cost of services by suspending, shutting down services, or destroy services before end of the hackathon. You will still be able to use the free services (up to their quotas) like App Service, or Functions.
+For instructions on installing WSL, you can refer to this [Microsoft Learn page](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 ## Managing Cloud Resources
 
