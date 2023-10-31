@@ -8,6 +8,11 @@
 
 To get started, please read the following page carefully, which explains the hack environment architecture, the resources that have been deployed for you, and how to get access. 
 
+## Use Cases
+
+Use cases can be found [Here](AI%20for%20Government%20Hackathon%20-%20Use%20Cases.pdf)
+
+
 ## Optional Prerequisites
 
 We have compiled a list of common tools and software that might come in handy! You might not need all of them for the hack however, if you work with Azure on a regular basis, these are all things you might consider having in your toolbox for the future.
